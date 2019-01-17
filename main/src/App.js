@@ -137,7 +137,7 @@ class App extends Component {
     }
 
     handleSubmit = player => {
-        this.setState({ player: [...this.state.players, player] });
+        this.setState({ players: [...this.state.players, player] });
     }
 
     render() {

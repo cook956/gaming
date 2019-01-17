@@ -491,8 +491,8 @@ dd {
   line-height: 1; }
 
 .button:hover, a.button:hover, button:hover, [type=submit]:hover, [type=reset]:hover, [type=button]:hover {
-  border: 1px solid #3399ff;
-  background: #3399ff;
+  border: 1px solid #4d79ff;
+  background: #4d79ff;
   color: #ffffff;
   text-decoration: none; }
 
