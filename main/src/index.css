@@ -245,9 +245,9 @@ h5 {
   h1 {
     font-size: 2.25rem; }
   h2 {
-    font-size: 2rem; }
-  h3 {
     font-size: 1.75rem; }
+  h3 {
+    font-size: 1.5rem; }
   h4 {
     font-size: 1.5rem; }
   h5 {
@@ -474,9 +474,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #3399ff;
+  border: 1px solid #9494b8;
   border-radius: 4px;
-  background: #3399ff;
+  background: #9494b8;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -491,8 +491,8 @@ dd {
   line-height: 1; }
 
 .button:hover, a.button:hover, button:hover, [type=submit]:hover, [type=reset]:hover, [type=button]:hover {
-  border: 1px solid #0250bc;
-  background: #0250bc;
+  border: 1px solid #3399ff;
+  background: #3399ff;
   color: #ffffff;
   text-decoration: none; }
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const TableHeader = () => { 
+const TableHeader = () => {
     return (
         <thead>
             <tr>
@@ -13,7 +13,7 @@ const TableHeader = () => {
     );
 }
 
-const TableBody = props => { 
+const TableBody = props => {
     const rows = props.playerData.map((row, index) => {
         return (
             <tr key={index}>
