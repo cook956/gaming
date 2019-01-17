@@ -13,6 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### `Github`
+
+For Github viewing please visit [Gaming](https://github.com/cook956/gaming)
+
 
 ### `Follow Up Questions`
 
@@ -35,4 +39,4 @@ Amongst other resources most of my learning has been with CodeAcademy. I have us
 
 5) How did you find the test overall? If you have any suggestions on how we can improve the test we’d love to hear them.
 
-    I found the test to be a great exercise. I thoroughly enjoyed making something that challenged me, for me it was the correct amount of 'difficult' without proving itself to be unsatisfying. 
+    I found the test to be a great exercise. I thoroughly enjoyed making something that challenged me, for me it was the correct amount of 'difficult' without proving itself to be unsatisfying. I am unable to suggest any improvements at this piont.
