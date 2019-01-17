@@ -14,13 +14,13 @@ const TableHeader = () => {
 }
 
 const TableBody = props => { 
-    const rows = props.characterData.map((row, index) => {
+    const rows = props.playerData.map((row, index) => {
         return (
             <tr key={index}>
                 <td>{row.name}</td>
                 <td>{row.number}</td>
                 <td>{row.game}</td>
-                <td><button onClick={() => props.removeCharacter(index)}>Delete</button></td>
+                <td><button onClick={() => props.removePlayer(index)}>Delete</button></td>
             </tr>
         );
     });
@@ -30,12 +30,12 @@ const TableBody = props => {
 
 class Table extends Component {
     render() {
-        const { characterData, removeCharacter } = this.props;
+        const { playerData, removePlayer } = this.props;
 
         return (
             <table>
                 <TableHeader />
-                <TableBody characterData={characterData} removeCharacter={removeCharacter} />
+                <TableBody playerData={playerData} removePlayer={removePlayer} />
             </table>
         );
     }
