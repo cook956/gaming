@@ -146,7 +146,7 @@ class App extends Component {
         return (
             <div className="container">
                 <h1>Angela's Game Shop</h1>
-                <h2>Add New</h2>
+                <h3>Add New</h3>
                 <Form handleSubmit={this.handleSubmit} />
 
                 <h3>Customer List</h3>

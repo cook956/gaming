@@ -1,68 +1,38 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation Instructrions
 
-In the project directory, you can run:
+In the project directory
+'gaming', you can run in a terminal:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+This Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Follow Up Questions`
 
-### `npm run build`
+1) How long, in hours, did you spend on the test (not including learning)?
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    I have spent approximately 11hrs on this app.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+2) Did you have to learn any new languages/technologies? If so, which ones and what resources did you use for your learning?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Yes, I had to learn 'React' to do so I had to reinforce my javascript knowledge. Alongside that Github usage was new to me also. 
+Amongst other resources most of my learning has been with CodeAcademy. I have used the Airbnb and Facebook react & javascript style guides.
 
-### `npm run eject`
+3) If you had more time, what further improvements or new features would you add?
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    I would of liked to make the Player contact details hidden with the ability to interact with the row to drop down, further contact information. Had time permitted, also to have a filter by game option. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4) What did you spend the most time on? What did you find most difficult?
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    I spent most time on understanding the transition from 'Props' to 'State', equally this was the most difficult part as the whole approach to interacting with information like this is new to me.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+5) How did you find the test overall? If you have any suggestions on how we can improve the test we’d love to hear them.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    I found the test to be a great exercise. I thoroughly enjoyed making something that challenged me, for me it was the correct amount of 'difficult' without proving itself to be unsatisfying. 
